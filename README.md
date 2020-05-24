@@ -1,7 +1,9 @@
 # APK EXTRACTOR
-An apk extractor made with flutter
+An apk extractor made with Flutter
 
-# ShowCase
+Star ⭐ the repo if you like what you see😉.
+
+ ## 📸 ScreenShots
 
 | 1 | 2|
 |------|-------|
