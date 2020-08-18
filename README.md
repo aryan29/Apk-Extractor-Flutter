@@ -29,4 +29,6 @@ Star ⭐ the repo if you like what you see😉.
 # Support
  Currently Working Only on Android ,because of some of its dependacies, Enjoy Using it
 
-
+# Download
+This app is now avilable on Play Store too
+https://play.google.com/store/apps/details?id=com.apkextractor.lite
